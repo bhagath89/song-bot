@@ -12,9 +12,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 ABS="Developer"
 APPER="ZEUS"
 OWNER="Owner"
-GITCLONE="github.com/shamilhabeebnelli/song-bot"
-B2="telegram.dog/shamilhabeeb"
-BUTTON1="📜 Source Code 📜"
+GITCLONE="telegram.dog/neepodamonkey"
+B2="telegram.dog/ITzMeZeus"
+BUTTON1="🧚 Source Code 🧚"
 
 def time_to_seconds(time):
     stringt = str(time)
